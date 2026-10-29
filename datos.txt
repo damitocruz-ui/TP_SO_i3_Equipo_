@@ -1,2 +1,2 @@
 Equipo: TP_SO_i3_Equipo_
-Integrantes: ALFA, Cruz y GAMMA
+Integrantes: ALFA, BETA y GAMMA
