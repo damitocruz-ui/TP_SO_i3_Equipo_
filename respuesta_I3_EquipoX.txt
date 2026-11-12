@@ -16,3 +16,15 @@ git pull origin main
 git merge origin/Cruz
 
 git push origin main
+
+Responde ALFA:
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+
+git status
+git pull
+git branch -a Cruz
+git checkout -b Cruz origin/Cruz
+notepad beta.txt
+git add .
+git commit -m "Agregue informacion a beta.txt"
+git push origin Cruz
