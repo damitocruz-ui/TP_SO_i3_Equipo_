@@ -94,3 +94,94 @@ Adaptador de túnel Teredo Tunneling Pseudo-Interface:
    NetBIOS sobre TCP/IP. . . . . . . . . . . : deshabilitado)
 
 Hora: (HORA ACTUAL : 11:37)
+
+Nombre y Apellido: Araceli Marlene Fernandez Ramirez
+
+Información de ifconfig:
+Configuración IP de Windows
+
+   Nombre de host. . . . . . . . . : DESKTOP-UHL5K0G
+   Sufijo DNS principal  . . . . . :
+   Tipo de nodo. . . . . . . . . . : híbrido
+   Enrutamiento IP habilitado. . . : no
+   Proxy WINS habilitado . . . . . : no
+   Lista de búsqueda de sufijos DNS: fibertel.com.ar
+
+Adaptador de Ethernet vEthernet (Default Switch):
+
+   Sufijo DNS específico para la conexión. . :
+   Descripción . . . . . . . . . . . . . . . : Hyper-V Virtual Ethernet Adapter
+   Dirección física. . . . . . . . . . . . . : 00-15-5D-19-9A-77
+   DHCP habilitado . . . . . . . . . . . . . : no
+   Configuración automática habilitada . . . : sí
+   Vínculo: dirección IPv6 local. . . : fe80::829b:9e70:f7d3:4a93%31(Preferido)
+   Dirección IPv4. . . . . . . . . . . . . . : 172.20.192.1(Preferido)
+   Máscara de subred . . . . . . . . . . . . : 255.255.240.0
+   Puerta de enlace predeterminada . . . . . :
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 520099165
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-31-13-51-1F-1C-1B-0D-A0-85-66
+   Servidores DNS. . . . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
+
+Adaptador de Ethernet vEthernet (WSL):
+
+   Sufijo DNS específico para la conexión. . :
+   Descripción . . . . . . . . . . . . . . . : Hyper-V Virtual Ethernet Adapter #2
+   Dirección física. . . . . . . . . . . . . : 00-15-5D-0D-22-7D
+   DHCP habilitado . . . . . . . . . . . . . : no
+   Configuración automática habilitada . . . : sí
+   Vínculo: dirección IPv6 local. . . : fe80::d0e6:cef0:371d:508d%38(Preferido)
+   Dirección IPv4. . . . . . . . . . . . . . : 172.28.96.1(Preferido)
+   Máscara de subred . . . . . . . . . . . . : 255.255.240.0
+   Puerta de enlace predeterminada . . . . . :
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 637539677
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-31-13-51-1F-1C-1B-0D-A0-85-66
+   Servidores DNS. . . . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Descripción . . . . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Dirección física. . . . . . . . . . . . . : 0A-00-27-00-00-0A
+   DHCP habilitado . . . . . . . . . . . . . : no
+   Configuración automática habilitada . . . : sí
+   Vínculo: dirección IPv6 local. . . : fe80::6909:7205:dcaa:3cbd%10(Preferido)
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1(Preferido)
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 470417447
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-31-13-51-1F-1C-1B-0D-A0-85-66
+   Servidores DNS. . . . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . : fibertel.com.ar
+   Descripción . . . . . . . . . . . . . . . : Killer E2500 Gigabit Ethernet Controller
+   Dirección física. . . . . . . . . . . . . : 1C-1B-0D-A0-85-66
+   DHCP habilitado . . . . . . . . . . . . . : sí
+   Configuración automática habilitada . . . : sí
+   Dirección IPv6 . . . . . . . . . . : 2800:2130:5140:4e64:4437:1ddf:f054:1506(Preferido)
+   Dirección IPv6 temporal. . . . . . : 2800:2130:5140:4e64:e126:ef04:8426:525c(Preferido)
+   Vínculo: dirección IPv6 local. . . : fe80::3eb1:6d03:d0b7:26ca%6(Preferido)
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.68(Preferido)
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Concesión obtenida. . . . . . . . . . . . : miércoles, 11 de noviembre de 2026 23:01:21
+   La concesión expira . . . . . . . . . . . : viernes, 13 de noviembre de 2026 07:22:09
+   Puerta de enlace predeterminada . . . . . : fe80::10:18ff:fea3:1eac%6
+                                       192.168.0.1
+   Servidor DHCP . . . . . . . . . . . . . . : 192.168.0.1
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 102505229
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-31-13-51-1F-1C-1B-0D-A0-85-66
+   Servidores DNS. . . . . . . . . . . . . . : 181.30.140.136
+                                       181.30.140.199
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
+
+Hora:  11:53
