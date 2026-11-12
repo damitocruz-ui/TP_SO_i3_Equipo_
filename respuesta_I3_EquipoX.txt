@@ -1,0 +1,18 @@
+Respuestas de Beta 
+a) Después de realizar el merge en la rama main se realizaron los cambios tanto de Alfa como de Beta, Se incorporo el archivo beta.txt con lo mencionado anteriormente y de esta manera los cambios quedaron integrados en la rama principal y subidos a GitHub.
+ 
+b) Si, puedo ver todos los cambios que realizo Alfa mediante el pull.
+
+c) Primero, Beta tuvo que actualizo la información del repositorio, comprobar las ramas y luego actualizar la rama durante un merge 
+los comandos usados fueron:	
+gt fetch origin
+
+git Branch -a
+
+git checkout main
+
+git pull origin main
+
+git merge origin/Cruz
+
+git push origin main
