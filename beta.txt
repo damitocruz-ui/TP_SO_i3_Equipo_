@@ -1,0 +1,96 @@
+Nombre y apellido: Damian Cruz 
+
+Información de ifconfig:
+(P
+Configuración IP de Windows
+
+   Nombre de host. . . . . . . . . : DESKTOP-K6AOPVD
+   Sufijo DNS principal  . . . . . :
+   Tipo de nodo. . . . . . . . . . : híbrido
+   Enrutamiento IP habilitado. . . : no
+   Proxy WINS habilitado . . . . . : no
+
+Adaptador de Ethernet Radmin VPN:
+
+   Sufijo DNS específico para la conexión. . :
+   Descripción . . . . . . . . . . . . . . . : Famatech Radmin VPN Ethernet Adapter
+   Dirección física. . . . . . . . . . . . . : 02-50-95-4B-FE-D5
+   DHCP habilitado . . . . . . . . . . . . . : no
+   Configuración automática habilitada . . . : sí
+   Dirección IPv6 . . . . . . . . . . : fdfd::1aa7:686f(Preferido)
+   Vínculo: dirección IPv6 local. . . : fe80::8dd3:8496:7d91:7c78%11(Preferido)
+   Dirección IPv4. . . . . . . . . . . . . . : 26.167.104.111(Preferido)
+   Máscara de subred . . . . . . . . . . . . : 255.0.0.0
+   Puerta de enlace predeterminada . . . . . : 26.0.0.1
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 117592213
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-2F-43-A2-A8-74-56-3C-90-5F-58
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . : home
+   Descripción . . . . . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Dirección física. . . . . . . . . . . . . : 74-56-3C-90-5F-58
+   DHCP habilitado . . . . . . . . . . . . . : sí
+   Configuración automática habilitada . . . : sí
+   Dirección IPv6 . . . . . . . . . . : 2800:810:5de:2d7:c96:738:2214:65bd(Preferido)
+   Concesión obtenida. . . . . . . . . . . . : jueves, 12 de noviembre de 2026 7:40:06
+   La concesión expira . . . . . . . . . . . : jueves, 12 de noviembre de 2026 19:40:05
+   Dirección IPv6 . . . . . . . . . . : 2800:810:5de:2d7:7ca3:214a:3650:9aaf(Preferido)
+   Dirección IPv6 temporal. . . . . . : 2800:810:5de:2d7:5cfd:28b4:f92:d205(Preferido)
+   Vínculo: dirección IPv6 local. . . : fe80::ccb1:9c73:fad0:1c37%10(Preferido)
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.11(Preferido)
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Concesión obtenida. . . . . . . . . . . . : jueves, 12 de noviembre de 2026 7:40:05
+   La concesión expira . . . . . . . . . . . : jueves, 12 de noviembre de 2026 12:10:03
+   Puerta de enlace predeterminada . . . . . : fe80::365d:9eff:fe7b:6367%10
+                                       192.168.0.1
+   Servidor DHCP . . . . . . . . . . . . . . : 192.168.0.1
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 108287548
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-2F-43-A2-A8-74-56-3C-90-5F-58
+   Servidores DNS. . . . . . . . . . . . . . : 2800:810:100:3:200:115:192:90
+                                       2800:810:100:2:190:55:60:130
+                                       2800:810:100:2:190:55:60:129
+                                       100.72.3.1
+                                       100.72.3.5
+                                       100.72.3.97
+                                       100.72.3.101
+                                       100.72.3.105
+                                       100.72.3.109
+                                       2800:810:100:3:200:115:192:90
+                                       2800:810:100:2:190:55:60:130
+                                       2800:810:100:2:190:55:60:129
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
+   Lista de búsqueda de sufijos DNS específicos de conexión:
+                                       home
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Descripción . . . . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Dirección física. . . . . . . . . . . . . : 0A-00-27-00-00-10
+   DHCP habilitado . . . . . . . . . . . . . : no
+   Configuración automática habilitada . . . : sí
+   Vínculo: dirección IPv6 local. . . : fe80::7d49:9ff7:6a19:c167%16(Preferido)
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1(Preferido)
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 503971879
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-2F-43-A2-A8-74-56-3C-90-5F-58
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
+
+Adaptador de túnel Teredo Tunneling Pseudo-Interface:
+
+   Sufijo DNS específico para la conexión. . :
+   Descripción . . . . . . . . . . . . . . . : Microsoft Teredo Tunneling Adapter
+   Dirección física. . . . . . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP habilitado . . . . . . . . . . . . . : no
+   Configuración automática habilitada . . . : sí
+   Dirección IPv6 . . . . . . . . . . : 2001:0:14c9:cd04:2091:ac12:45e9:c699(Preferido)
+   Vínculo: dirección IPv6 local. . . : fe80::2091:ac12:45e9:c699%12(Preferido)
+   Puerta de enlace predeterminada . . . . . :
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 184549376
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-2F-43-A2-A8-74-56-3C-90-5F-58
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : deshabilitado)
+
+Hora: (HORA ACTUAL : 11:37)
