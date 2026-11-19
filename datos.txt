@@ -8,4 +8,7 @@ BETA: Damian Nicolas Cruz
 IP: 192.168.0.11
 Hora : 12:50
 
-GAMMA
+GAMMA : Jose Lionel flores
+IP : 192.168.1.5
+hora : 10:27
+
