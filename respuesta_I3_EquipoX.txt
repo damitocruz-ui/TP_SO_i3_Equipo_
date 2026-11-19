@@ -28,3 +28,8 @@ notepad beta.txt
 git add .
 git commit -m "Agregue informacion a beta.txt"
 git push origin Cruz
+
+Responde gamma:
+d)si quedan actualizados si se hace el pull
+e)no hubo problemas para hacer el merge 
+f)los comandos que debió hacer es un nano beta.txt y luego poner sus datos, luego de eso normalmente un git add, git commit -m y un git push para enviar los cambios al repositorio remoto
